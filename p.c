@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
-void main()
-{
+void main(){
      char str[20],tmp;
      int i,j;
      clrscr();
